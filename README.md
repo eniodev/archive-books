@@ -30,4 +30,4 @@ $ npx expo start # to run the app
 
 > If you want to run it in your phone, you need to install `Expo Go`. You can find on `App Store` or `Play Store`
 
-Made with :heart: by [Énio Carlos](https://twitter.com/eniocarlos), feel free to reach me out.
+Made with :heart: by [Énio Carlos](https://twitter.com/eniocarlosao), feel free to reach me out.
