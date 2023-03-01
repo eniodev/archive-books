@@ -4,13 +4,13 @@ An app that uses StepZen and GraphQL to gather all the books from Google Books a
 
 https://user-images.githubusercontent.com/49740149/221435163-d1638eee-3dbf-4455-a9dd-9dede40fd298.mp4
 
-## Tech stack
+## Tech Stack
 - [Expo](https://docs.expo.dev/)
 - [StepZen](https://stepzen.com/docs)
 - [GraphQL | Apollo Client](https://www.apollographql.com/tutorials/fullstack-quickstart/10-managing-local-state)
 
 
-## How to run this project locally
+## Run It Locally
 
 Make you have this tools installed:
 
